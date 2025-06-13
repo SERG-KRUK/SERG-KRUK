@@ -1,4 +1,11 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Developer)](https://git.io/typing-svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SERG-KRUK&theme=default)
+
+## Стек:
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=yellow"/><img src="https://img.shields.io/badge/Django-7FFFD4?style=for-the-badge&logo=Django&logoColor=6A5ACD"/><img src="https://img.shields.io/badge/HTML-FF6347?style=for-the-badge&logo=HTML5&logoColor=white"/><img src="https://img.shields.io/badge/SQL-F0E68C?style=for-the-badge&logo=MYSQL&logoColor=black"/><img src="https://img.shields.io/badge/PostgreSQL-008B8B?style=for-the-badge&logo=PostgreSQL&logoColor=black"/> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+<HR>
 
 <!--
 **SERG-KRUK/SERG-KRUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
